@@ -6,7 +6,7 @@
 
 
 💻 Tools
-![image](https://user-images.githubusercontent.com/58941189/185806051-0fa8382c-7302-421e-a115-694a32367873.png) ![image](https://user-images.githubusercontent.com/58941189/185806059-62df3fd7-d0fc-4f79-b4ea-e7e519d3d5d2.png) ![image](https://user-images.githubusercontent.com/58941189/185806071-ed83f61d-97bb-49fd-9122-a99656b3314f.png)
+![image](https://user-images.githubusercontent.com/58941189/185806051-0fa8382c-7302-421e-a115-694a32367873.png) ![image](https://user-images.githubusercontent.com/58941189/185806059-62df3fd7-d0fc-4f79-b4ea-e7e519d3d5d2.png) ![image](https://user-images.githubusercontent.com/58941189/185806071-ed83f61d-97bb-49fd-9122-a99656b3314f.png) [![My Skills](https://skillicons.dev/icons?i=nodejs,react,atom,blender,mongodb,mysql,nextjs,p5js,tailwind,threejs,ts,fastapi,figma&theme=light)](https://skillicons.dev)
 
 
 
