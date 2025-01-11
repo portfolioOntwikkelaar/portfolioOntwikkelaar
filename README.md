@@ -6,7 +6,7 @@
 
 ## 🔦 Welkom!
 
-Ik ben een gepassioneerde ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design**, en **technologie-integratie**. Mijn doel is om creatieve en efficiënte oplossingen te bouwen die zowel functioneel als visueel aantrekkelijk zijn.
+Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design**, en **technologie-integratie**. Mijn doel is om creatieve en efficiënte oplossingen te bouwen die zowel functioneel als visueel aantrekkelijk zijn.
 
 ---
 
@@ -16,8 +16,8 @@ Ik ben een gepassioneerde ontwikkelaar met een sterke focus op **webontwikkeling
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### 🎨 Design & 3D Modeling:
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
