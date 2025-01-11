@@ -17,7 +17,7 @@ Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Logo Animation](http://forumavatars.ru/img/avatars/001b/d6/60/2-1678547276.gif)
 
 ### 🎨 Design & 3D Modeling:
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
@@ -36,4 +36,4 @@ Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,atom,blender,mongodb,mysql,nextjs,p5js,tailwind,threejs,ts,fastapi,figma&theme=light)](https://skillicons.dev)
 
 ---
-![React Logo Animation](https://link-naar-jouw-gehoste-gif.com/react-animated.gif)
+
