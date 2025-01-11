@@ -1,16 +1,16 @@
-# 🌟 Hello, This is My @PortfolioOntwikkelaar
+# 🔮 Hello, This is My @PortfolioOntwikkelaar
 
 [![MasterHead](https://t4.ftcdn.net/jpg/03/96/04/47/360_F_396044700_tAAt61nvt8z2zzuJLqHzh3jQet002Lxl.jpg)](https://your-portfolio-link.com)
 
 ---
 
-## 👋 Welkom!
+## 🔦 Welkom!
 
 Ik ben een gepassioneerde ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design**, en **technologie-integratie**. Mijn doel is om creatieve en efficiënte oplossingen te bouwen die zowel functioneel als visueel aantrekkelijk zijn.
 
 ---
 
-## 💻 Mijn Expertise
+## 📊 Mijn Expertise
 
 ### 🌐 Web & Frontend Development:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -31,20 +31,9 @@ Ik ben een gepassioneerde ontwikkelaar met een sterke focus op **webontwikkeling
 
 ---
 
-## 🌟 Mijn Skills
+## 🧪 Mijn Skills
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,atom,blender,mongodb,mysql,nextjs,p5js,tailwind,threejs,ts,fastapi,figma&theme=light)](https://skillicons.dev)
 
 ---
 
-## 📸 Screenshots & Visuals
-
-Hier zijn enkele voorbeelden van mijn werk:
-
-### 🌐 Web Development:
-![Project Screenshot](https://user-images.githubusercontent.com/58941189/185805887-0359985a-9f80-49b0-8845-239350a1dc65.png)
-![Project Screenshot](https://user-images.githubusercontent.com/58941189/185805915-140f7eb9-0d66-4a84-84ee-ebdcae2d10b3.png)
-
-### 🎨 3D Design:
-![3D Design](https://user-images.githubusercontent.com/58941189/185805925-d6a7b6f7-8ce8-466a-a591-77adbdf3cd70.png)
-![3D Design](https://user-images.githubusercontent.com/58941189/185805943-f9ce1ad3-1b18-455b-b0d0-a8e6e5d065c7.png)
