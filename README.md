@@ -21,7 +21,7 @@ Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design
 
 ### 🎨 Design & 3D Modeling:
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Figma Logo Animation]([https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white](https://timothyegans.com/Images/icons8-figma.gif))
+![Figma Logo Animation](https://timothyegans.com/Images/icons8-figma.gif)
 
 ### 🛠️ Backend & Tools:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
