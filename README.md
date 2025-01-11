@@ -36,4 +36,4 @@ Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,atom,blender,mongodb,mysql,nextjs,p5js,tailwind,threejs,ts,fastapi,figma&theme=light)](https://skillicons.dev)
 
 ---
-
+![React Logo Animation](https://link-naar-jouw-gehoste-gif.com/react-animated.gif)
