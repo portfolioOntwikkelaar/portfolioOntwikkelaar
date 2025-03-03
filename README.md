@@ -31,7 +31,7 @@ Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design
 ## 🧪 Mijn Skills
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,atom,blender,mongodb,mysql,nextjs,p5js,tailwind,threejs,ts,fastapi,figma&theme=light)](https://skillicons.dev)
-![Network](https://img.shields.io/badge/Cisco_Networking-Basics_like-red)
+![Network](https://img.shields.io/badge/Cisco_Networking-Basics-red)
 
 
 
