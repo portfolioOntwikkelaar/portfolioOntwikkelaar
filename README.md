@@ -1,7 +1,4 @@
 # 🔮 Hello, This is My @PortfolioOntwikkelaar
-
-[![MasterHead](https://avatars.mds.yandex.net/i?id=3ffb3a65b3c91d625d341fb0044c197c_l-9051257-images-thumbs&n=13)
-
 ---
 
 ## 🔦 Welkom!
@@ -34,6 +31,7 @@ Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design
 ## 🧪 Mijn Skills
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,atom,blender,mongodb,mysql,nextjs,p5js,tailwind,threejs,ts,fastapi,figma&theme=light)](https://skillicons.dev)
+![Network](https://repository-images.githubusercontent.com/487182543/677376b3-ce81-4434-9652-11bdca5b6118)
 
 ---
 
