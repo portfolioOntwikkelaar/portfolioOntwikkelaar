@@ -31,7 +31,7 @@ Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design
 ## 🧪 Mijn Skills
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,atom,blender,mongodb,mysql,nextjs,p5js,tailwind,threejs,ts,fastapi,figma&theme=light)](https://skillicons.dev)
-![Network](https://avatars.mds.yandex.net/i?id=89f25bd95b0baf26e47554905355d861_sr-9838067-images-thumbs&n=13)
+![Network](https://gc.edu/wp-content/uploads/2018/12/ccna-300x300.png)
 
 ---
 
