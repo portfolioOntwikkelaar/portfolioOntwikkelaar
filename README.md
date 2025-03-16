@@ -1,13 +1,13 @@
-# 🔮 Hello, This is My @PortfolioOntwikkelaar
+#  Hello, This is My @PortfolioOntwikkelaar
 ---
 
-## 🔦 Welkom!
+##  Welkom!
 
 Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design**, en **technologie-integratie**. Mijn doel is om creatieve en efficiënte oplossingen te bouwen die zowel functioneel als visueel aantrekkelijk zijn.
 
 ---
 
-## 📊 Mijn Expertise
+##  Mijn Expertise
 
 ### 🌐 Web & Frontend Development:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -16,7 +16,7 @@ Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Logo Animation](http://forumavatars.ru/img/avatars/001b/d6/60/2-1678547276.gif)
 
-### 🎨 Design & 3D Modeling:
+###  Design & 3D Modeling:
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Figma Logo Animation](https://timothyegans.com/Images/icons8-figma.gif)
 
@@ -28,9 +28,9 @@ Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design
 
 ---
 
-## 🧪 Mijn Skills
+##  Mijn Skills
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,atom,blender,mongodb,mysql,nextjs,p5js,tailwind,threejs,ts,fastapi,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,atom,blender,go,graphql,nestjs,py,sass,vite,gatsby,mongodb,wordpress,mysql,nextjs,vue,webpack,p5js,tailwind,threejs,ts,fastapi,figma&theme=light)](https://skillicons.dev)
 ![Network](https://img.shields.io/badge/Cisco_Networking-Basics-red)
 
 
