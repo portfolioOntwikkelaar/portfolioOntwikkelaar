@@ -1,13 +1,13 @@
-#  Hello, This is My @PortfolioOntwikkelaar
+#  This is My @PortfolioOntwikkelaar
 ---
 
-##  Welkom!
+##
 
-Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design**, en **technologie-integratie**. Mijn doel is om creatieve en efficiënte oplossingen te bouwen die zowel functioneel als visueel aantrekkelijk zijn.
+Ik ben een ontwikkelaar, netwerkbeheerder met een sterke focus op **webontwikkeling**, **probleemoplossing**, **3D-design**, en **technologie-integratie**. Mijn doel is om creatieve en efficiënte oplossingen te bouwen die zowel functioneel als visueel aantrekkelijk zijn.
 
 ---
 
-##  Mijn Expertise
+##  Mijn Ervaring
 
 ### 🌐 Web & Frontend Development:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -25,12 +25,14 @@ Ik ben een ontwikkelaar met een sterke focus op **webontwikkeling**, **3D-design
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
 
 ---
 
 ##  Mijn Skills
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,atom,blender,go,graphql,nestjs,py,sass,vite,gatsby,mongodb,wordpress,mysql,nextjs,vue,webpack,p5js,tailwind,threejs,ts,fastapi,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,atom,blender,go,graphql,nestjs,py,sass,vite,gatsby,mongodb,wordpress,mysql,nextjs,vue,webpack,p5js,tailwind,threejs,ts,fastapi,figma,laravel,linux,windows&theme=light)](https://skillicons.dev)
 ![Network](https://img.shields.io/badge/Cisco_Networking-CCNA-red)
 
 
