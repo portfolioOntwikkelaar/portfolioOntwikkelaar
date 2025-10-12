@@ -14,7 +14,7 @@ Mijn doel is om creatieve en efficiënte oplossingen te bouwen die zowel
 functioneel als visueel aantrekkelijk zijn.
 </p>
 
----
+<p align="center">𓊈𒆜༺═──────═༻𒆜𓊉</p>
 
 ## 🚀 **Mijn Ervaring**
 
@@ -42,7 +42,7 @@ functioneel als visueel aantrekkelijk zijn.
   <img src="https://img.shields.io/badge/-SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
----
+<p align="center">꧁═══════════ ❖ ═══════════꧂</p>
 
 ## 🧠 **Mijn Skills**
 
@@ -56,30 +56,23 @@ functioneel als visueel aantrekkelijk zijn.
   <img src="https://img.shields.io/badge/Cisco_Networking-CCNA-red?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
----
+<p align="center">𒆜══════════ ༺⚜️༻ ══════════𒆜</p>
 
-## ✨ **Contact & Netwerken**
-<p align="center">
-  <a href="mailto:jouw.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jouwprofiel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/jouwgebruikersnaam" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
+## 📊 **Statistieken**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jouwgebruikersnaam&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=@PortfolioOntwikkelaar&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jouwgebruikersnaam&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouwgebruikersnaam&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=@PortfolioOntwikkelaar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=@PortfolioOntwikkelaar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
+<p align="center">𓊈══════════ ༺⚡༻ ══════════𓊉</p>
 
 <p align="center">
-  <i>“Code is the brush, creativity the canvas — en innovatie het kunstwerk.”</i>
+  <i>“Code is de borstel, creativiteit het doek — en innovatie het kunstwerk.”</i>
 </p>
 
 
