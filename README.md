@@ -4,7 +4,7 @@
 ##
 
 <h1 align="center">Hello, ik ben <span style="color:#4CAF50;">Digitaal Artiest</span></h1>
-<h3 align="center">💻 Ontwikkelaar • 🌐 Netwerkbeheerder • 🎨 3D Designer</h3>
+<h3 align="center"> Ontwikkelaar •  Netwerkbeheerder •  3D Designer</h3>
 
 <p align="center">
 Ik ben een <b>ontwikkelaar</b> en <b>netwerkbeheerder</b> met een passie voor 
@@ -16,9 +16,9 @@ functioneel als visueel aantrekkelijk zijn.
 
 <p align="center">𓊈𒆜༺═──────────────────────────────────────────═༻𒆜𓊉</p>
 
-## 🚀 **Mijn Ervaring**
+##  **Mijn Ervaring**
 
-### 🌐 Web & Frontend Development
+###  Web & Frontend Development
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,13 +27,13 @@ functioneel als visueel aantrekkelijk zijn.
   <img src="http://forumavatars.ru/img/avatars/001b/d6/60/2-1678547276.gif" width="45" height="45" style="margin-left:10px;" />
 </p>
 
-### 🎨 Design & 3D Modeling
+###  Design & 3D Modeling
 <p align="center">
   <img src="https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://timothyegans.com/Images/icons8-figma.gif" width="45" height="45" style="margin-left:15px;" />
 </p>
 
-### 🛠️ Backend & Tools
+###  Backend & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -44,7 +44,7 @@ functioneel als visueel aantrekkelijk zijn.
 
 <p align="center">꧁═══════════════════════════════ ❖ ═══════════════════════════════꧂</p>
 
-## 🧠 **Mijn Skills**
+##  **Mijn Skills**
 
 <p align="center" style="margin: 20px 0;">
   <a href="https://skillicons.dev">
