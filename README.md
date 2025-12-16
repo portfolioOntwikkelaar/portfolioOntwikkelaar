@@ -4,7 +4,7 @@
 ##
 
 <h1 align="center">Hello, ik ben <span style="color:#4CAF50;">Digitaal Artiest</span></h1>
-<h3 align="center"> Ontwikkelaar •  Netwerkbeheerder •  3D Designer</h3>
+<h3 align="center"> Ontwikkelaar •  Netwerkbeheerder</h3>
 
 <p align="center">
 Ik ben een <b>ontwikkelaar</b> en <b>netwerkbeheerder</b> met een passie voor 
