@@ -1,22 +1,14 @@
-#  This is My @PortfolioOntwikkelaar
+#  @PortfolioOntwikkelaar
 ---
 
-##
 
-<h1 align="center">Hello, ik ben <span style="color:#4CAF50;">Digitaal Artiest</span></h1>
-<h3 align="center"> Ontwikkelaar •  Netwerkbeheerder</h3>
-
-<p align="center">
-Ik ben een <b>ontwikkelaar</b> en <b>netwerkbeheerder</b> met een passie voor 
-<b>webontwikkeling</b>, <b>probleemoplossing</b>, <b>3D-design</b> en 
-<b>technologie-integratie</b>.<br>
-Mijn doel is om creatieve en efficiënte oplossingen te bouwen die zowel 
-functioneel als visueel aantrekkelijk zijn.
-</p>
+### Approach
+- Prefer simple solutions that scale
+- Treat UI as a product, not a demo
 
 <p align="center">𓊈𒆜༺═──────────────────────────────────────────═༻𒆜𓊉</p>
 
-##  **Mijn Ervaring**
+##  **Experience**
 
 ###  Web & Frontend Development
 <p align="center">
@@ -44,7 +36,7 @@ functioneel als visueel aantrekkelijk zijn.
 
 <p align="center">꧁═══════════════════════════════ ❖ ═══════════════════════════════꧂</p>
 
-##  **Mijn Skills**
+##  **Skills**
 
 <p align="center" style="margin: 20px 0;">
   <a href="https://skillicons.dev">
@@ -56,9 +48,9 @@ functioneel als visueel aantrekkelijk zijn.
   <img src="https://img.shields.io/badge/Cisco_Networking-CCNA-red?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-<p align="center">𒆜══════════════════════════════ ༺⚜️༻ ══════════════════════════════𒆜</p>
+<p align="center">𒆜══════════════════════════════ ༺2026༻ ══════════════════════════════𒆜</p>
 
-## 📊 **Statistieken**
+##  **Statistieken**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PortfolioOntwikkelaar&color=blueviolet&style=for-the-badge" alt="Profile views" />
@@ -69,10 +61,8 @@ functioneel als visueel aantrekkelijk zijn.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PortfolioOntwikkelaar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">𓊈══════════════════════════════ ༺⚡༻ ══════════════════════════════𓊉</p>
+<p align="center">𓊈══════════════════════════════ ༺༻ ══════════════════════════════𓊉</p>
 
-<p align="center">
-  <i>“Code is de borstel, creativiteit het doek — en innovatie het kunstwerk.”</i>
-</p>
+
 
 
