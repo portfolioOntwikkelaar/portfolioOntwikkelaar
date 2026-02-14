@@ -46,6 +46,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco_Networking-CCNA-red?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Networking-CCNP-red?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 <p align="center">𒆜══════════════════════════════ ༺2026༻ ══════════════════════════════𒆜</p>
