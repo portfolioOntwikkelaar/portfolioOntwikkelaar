@@ -1,239 +1,187 @@
+````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,30:0f172a,60:111827,100:1e293b&amp;height=260&amp;section=header&amp;text=PortfolioOntwikkelaar&amp;fontSize=52&amp;fontColor=e2e8f0&amp;fontAlignY=38&amp;desc=Frontend%20Engineer%20%7C%20Infrastructure%20Builder%20%7C%20Docker%20%26%20Systems%20Engineering&amp;descAlignY=58&amp;descColor=60a5fa&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,50:111827,75:1e293b,100:020617&text=PortfolioOntwikkelaar&fontSize=54&fontColor=e2e8f0&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Systems%20Builder%20%7C%20Infrastructure%20Enthusiast&descAlignY=58&descColor=60a5fa&animation=twinkling" />
 
-<p align="center">
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,30:0f172a,60:111827,100:1e293b&section=header&text=PortfolioOntwikkelaar&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Frontend%20Engineer%20•%20Infrastructure%20Builder%20•%20Docker%20Systems&descAlignY=58&descColor=60a5fa&animation=fadeIn"
-  />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PortfolioOntwikkelaar&label=Profile+Views&color=3b82f6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/PortfolioOntwikkelaar?style=for-the-badge&color=111827&labelColor=1f2937" />
-  <img src="https://img.shields.io/badge/Focus-Systems%20Engineering-0f172a?style=for-the-badge&logo=docker&logoColor=60a5fa" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=850&lines=Building+systems+that+scale;Frontend+meets+Infrastructure;Networking+%7C+Backend+%7C+UI+Engineering;Designing+with+performance+in+mind;Linux+%7C+Docker+%7C+Cisco+%7C+Full+Stack+Development" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=PortfolioOntwikkelaar&label=Profile+Views&color=2563eb&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/PortfolioOntwikkelaar?style=for-the-badge&color=0f172a&labelColor=111827" />
 
 </div>
 
 ---
 
-<div align="center">
+# 🧠 Engineering Identity
 
-# SYSTEM PROFILE
+```ts
+class PortfolioOntwikkelaar {
+  role = [
+    "Frontend Engineer",
+    "Systems Builder",
+    "Infrastructure Enthusiast",
+  ];
 
-</div>
+  stack = {
+    frontend: [
+      "React",
+      "Next.js",
+      "Vue",
+      "Tailwind",
+      "Three.js",
+    ],
 
-<table>
-<tr>
-<td align="left" width="50%">
+    backend: [
+      "Node.js",
+      "FastAPI",
+      "NestJS",
+      "GraphQL",
+    ],
 
-### Core Engineering
+    databases: [
+      "MongoDB",
+      "MySQL",
+      "SQLite",
+    ],
 
-```yaml
-Frontend:
-  - React
-  - Next.js
-  - Vue
-  - TailwindCSS
-  - Three.js
+    infrastructure: [
+      "Linux",
+      "Windows Server",
+      "Docker",
+      "Cisco Networking",
+      "DFS",
+    ],
 
-Backend:
-  - Node.js
-  - FastAPI
-  - NestJS
-  - GraphQL
+    creative: [
+      "Blender",
+      "Figma",
+      "3D Workflows",
+    ],
+  };
 
-Infrastructure:
-  - Docker
-  - Linux
-  - Windows Server
-  - Cisco Networking
-  - DFS
+  philosophy = [
+    "Build scalable systems.",
+    "Keep architecture clean.",
+    "Performance over complexity.",
+    "Design with purpose.",
+  ];
 
-Databases:
-  - MongoDB
-  - MySQL
-  - SQLite
+  currentFocus = [
+    "Advanced Networking",
+    "System Architecture",
+    "Cybersecurity",
+    "Frontend Performance",
+    "Containerized Workflows",
+  ];
 
-Creative:
-  - Blender
-  - Figma
-  - 3D Workflows
-```
-
-</td>
-
-<td align="left" width="50%">
-
-### Current Focus
-
-```bash
-> Advanced Networking
-> Docker Infrastructure
-> System Architecture
-> Cybersecurity
-> Frontend Performance
-> Distributed Systems
-```
-
-### Engineering Philosophy
-
-```text
-Scalable over temporary.
-Performance over complexity.
-Clean systems over chaos.
-Design with purpose.
-Infrastructure matters.
-```
-
-### Runtime Status
-
-```text
-System Status       // Operational
-Docker Engine       // Active
-Networking Stack    // Optimized
-Frontend Pipeline   // Running
-Learning Mode       // Continuous
-```
-
-</td>
-</tr>
-</table>
+  deploy() {
+    return "Turning ideas into scalable digital systems.";
+  }
+}
+````
 
 ---
 
+# ⚡ Engineering Domains
+
 <div align="center">
 
-# ENGINEERING METRICS
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PortfolioOntwikkelaar&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1&icon_color=60a5fa" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PortfolioOntwikkelaar&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1" />
+|   Frontend Engineering  | Infrastructure & Systems | Backend Development | Creative Engineering |
+| :---------------------: | :----------------------: | :-----------------: | :------------------: |
+|     React Ecosystem     |       Linux Systems      |   API Architecture  |        Blender       |
+|       Next.js Apps      |          Docker          |       FastAPI       |         Figma        |
+|     UI Architecture     |      Windows Server      |       GraphQL       |    3D Experiences    |
+|   Three.js Interfaces   |     Cisco Networking     |      Databases      |         UI/UX        |
+| Tailwind Design Systems |   DFS & Infrastructure   |        NestJS       |     Motion Design    |
 
 </div>
 
 ---
 
+# 🛠 Tech Arsenal
+
 <div align="center">
 
-# TECHNOLOGY STACK
+## ⚡ Core Languages
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,fastapi,nestjs,docker,kubernetes,linux,mongodb,mysql,sqlite,git,github,figma,blender,python,c,cpp,bash" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,go,html,css&theme=dark&perline=8" />
+
+---
+
+## 🎨 Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,vite,threejs,p5js&theme=dark&perline=8" />
+
+---
+
+## ⚙ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,nestjs,graphql&theme=dark&perline=8" />
+
+---
+
+## 🗄 Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark&perline=8" />
+
+---
+
+## 🖥 Systems & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,bash&theme=dark&perline=8" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Cisco-CCNA-2563EB?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cisco-CCNP-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white" />
+
+---
+
+## 🎭 Creative & Design
+
+<img src="https://skillicons.dev/icons?i=blender,figma&theme=dark&perline=8" />
 
 </div>
 
 ---
 
-<div align="center">
-
-# INFRASTRUCTURE & SYSTEMS
-
-</div>
-
-```text
-Frontend Architecture
-// Backend Services
-// Docker Containers
-// Networking Infrastructure
-// Persistent Storage
-// Linux Systems
-// Cloud-Native Workflows
-// Performance Optimization
-```
-
----
+# 📈 GitHub Analytics
 
 <div align="center">
 
-# CURRENT ENGINEERING INTERESTS
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PortfolioOntwikkelaar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1" />
 
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-## Infrastructure
-
-Docker  
-Container Systems  
-Linux Administration  
-Networking  
-
-</td>
-
-<td width="33%" align="center">
-
-## Development
-
-Frontend Engineering  
-Backend APIs  
-Performance Optimization  
-System Design  
-
-</td>
-
-<td width="33%" align="center">
-
-## Exploration
-
-Cybersecurity  
-Distributed Systems  
-Cloud Infrastructure  
-Scalable Architectures  
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# ACTIVITY GRAPH
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PortfolioOntwikkelaar&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PortfolioOntwikkelaar&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1" />
 
 </div>
 
 ---
 
+# 📊 Contribution Activity
+
 <div align="center">
 
-# SYSTEM TERMINAL
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PortfolioOntwikkelaar&theme=tokyo-night&hide_border=true&bg_color=020617&color=60a5fa&line=2563eb&point=e2e8f0&area=true" />
 
 </div>
 
-```bash
-$ docker ps
-
-CONTAINER ID   IMAGE              STATUS
-81fa2bc91e21   frontend-system    Running
-6da12af812c1   backend-api        Running
-31bc9d2ff001   infrastructure     Running
-92adffbc7811   portfolio-stack    Operational
-```
-
-```bash
-$ systemctl status engineering
-
-● engineering.service - Portfolio Engineering Stack
-     Loaded: active
-     Status: running
-     Focus: scalable infrastructure
-```
-
 ---
 
-<div align="center">
+# 🌐 Connect
 
-# CONNECT
+<div align="center">
 
 <a href="https://github.com/PortfolioOntwikkelaar">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-PortfolioOntwikkelaar-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<!-- Voeg hier later LinkedIn / Portfolio / Discord toe -->
 
 </div>
 
@@ -241,9 +189,7 @@ $ systemctl status engineering
 
 <div align="center">
 
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,25:0f172a,50:111827,75:1e293b,100:334155&section=footer&reversal=false"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,25:0f172a,50:111827,75:1e293b,100:020617" />
 
 </div>
+```
