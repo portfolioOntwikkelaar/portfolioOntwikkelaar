@@ -9,10 +9,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PortfolioOntwikkelaar&label=Profile+Views&color=2563eb&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/PortfolioOntwikkelaar?style=for-the-badge&color=0f172a&labelColor=111827" />
-
 </div>
 
 ---
