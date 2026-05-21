@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:1f2937&height=240&section=header&text=PortfolioOntwikkelaar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Systems%20Builder%20%7C%20Infrastructure%20Enthusiast&descAlignY=58&descColor=60a5fa&animation=fadeIn" />
@@ -86,7 +86,6 @@ class PortfolioOntwikkelaar {
     return "Turning ideas into scalable digital systems.";
   }
 }
-````
 
 ---
 
@@ -177,7 +176,10 @@ class PortfolioOntwikkelaar {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:0d1117&height=120&section=footer" />
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,25:0f172a,50:111827,75:1e293b,100:334155&section=footer&reversal=false"
+/>
 
 </div>
 ```
