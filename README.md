@@ -1,19 +1,68 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:1f2937&height=240&section=header&text=PortfolioOntwikkelaar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Systems%20Builder%20%7C%20Infrastructure%20Enthusiast&descAlignY=58&descColor=60a5fa&animation=fadeIn" />
+## SYSTEM PROFILE
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=700&lines=Building+systems+that+scale;Frontend+meets+Infrastructure;Networking+%E2%80%A2+Backend+%E2%80%A2+UI+Engineering;Designing+with+performance+in+mind;Linux+%E2%80%A2+Cisco+%E2%80%A2+Full+Stack+Development" 
-    alt="Typing Animation"
-  />
-</p>
+<table>
+<tr>
+<td align="left" width="50%">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PortfolioOntwikkelaar&label=Profile+Views&color=3b82f6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/PortfolioOntwikkelaar?style=for-the-badge&color=111827&labelColor=1f2937" />
-</p>
+### Core Engineering
+
+```yaml
+Frontend:
+  - React
+  - Next.js
+  - Vue
+  - TailwindCSS
+  - Three.js
+
+Backend:
+  - Node.js
+  - FastAPI
+  - NestJS
+  - GraphQL
+
+Infrastructure:
+  - Docker
+  - Linux
+  - Windows Server
+  - Cisco Networking
+  - DFS
+
+Databases:
+  - MongoDB
+  - MySQL
+  - SQLite
+```
+
+</td>
+
+<td align="left" width="50%">
+
+### Current Focus
+
+```bash
+> Advanced Networking
+> Container Infrastructure
+> System Architecture
+> Frontend Performance
+> Cybersecurity
+> Distributed Systems
+```
+
+### Engineering Philosophy
+
+```text
+Scalable over temporary.
+Clean architecture over chaos.
+Performance over complexity.
+Systems thinking over shortcuts.
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
