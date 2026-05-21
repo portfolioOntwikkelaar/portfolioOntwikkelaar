@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,60:111827,100:1e293b&height=260&section=header&text=PortfolioOntwikkelaar&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Infrastructure%20Builder%20%7C%20Docker%20%26%20Systems%20Engineering&descAlignY=58&descColor=60a5fa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,30:0f172a,60:111827,100:1e293b&amp;height=260&amp;section=header&amp;text=PortfolioOntwikkelaar&amp;fontSize=52&amp;fontColor=e2e8f0&amp;fontAlignY=38&amp;desc=Frontend%20Engineer%20%7C%20Infrastructure%20Builder%20%7C%20Docker%20%26%20Systems%20Engineering&amp;descAlignY=58&amp;descColor=60a5fa&amp;animation=fadeIn" />
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=850&lines=Building+systems+that+scale;Frontend+meets+Infrastructure;Docker+%E2%80%A2+Networking+%E2%80%A2+Backend+Engineering;Designing+with+performance+in+mind;Linux+%E2%80%A2+Cisco+%E2%80%A2+Cloud-Native+Systems;Engineering+clean+and+scalable+architectures" 
-    alt="Typing Animation"
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,30:0f172a,60:111827,100:1e293b&section=header&text=PortfolioOntwikkelaar&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Frontend%20Engineer%20•%20Infrastructure%20Builder%20•%20Docker%20Systems&descAlignY=58&descColor=60a5fa&animation=fadeIn"
   />
 </p>
 
