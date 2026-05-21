@@ -1,69 +1,201 @@
-#  @PortfolioOntwikkelaar
+````md
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:1f2937&height=240&section=header&text=PortfolioOntwikkelaar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Systems%20Builder%20%7C%20Infrastructure%20Enthusiast&descAlignY=58&descColor=60a5fa&animation=fadeIn" />
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=700&lines=Building+systems+that+scale;Frontend+meets+Infrastructure;Networking+%E2%80%A2+Backend+%E2%80%A2+UI+Engineering;Designing+with+performance+in+mind;Linux+%E2%80%A2+Cisco+%E2%80%A2+Full+Stack+Development" 
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PortfolioOntwikkelaar&label=Profile+Views&color=3b82f6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/PortfolioOntwikkelaar?style=for-the-badge&color=111827&labelColor=1f2937" />
+</p>
+
+</div>
+
 ---
 
+# 🧠 Engineering Identity
 
-### Approach
-- Prefer simple solutions that scale
-- Treat UI as a product, not a demo
+```ts
+class PortfolioOntwikkelaar {
+  constructor() {
+    this.specialization = [
+      "Frontend Engineering",
+      "Infrastructure & Networking",
+      "Backend Systems",
+      "UI Architecture",
+    ];
 
-<p align="center">𓊈𒆜༺═──────────────────────────────────────────═༻𒆜𓊉</p>
+    this.stack = {
+      frontend: [
+        "React",
+        "Next.js",
+        "Vue",
+        "Tailwind",
+        "Three.js",
+      ],
 
-##  **Experience**
+      backend: [
+        "Node.js",
+        "FastAPI",
+        "NestJS",
+        "GraphQL",
+      ],
 
-###  Web & Frontend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="http://forumavatars.ru/img/avatars/001b/d6/60/2-1678547276.gif" width="45" height="45" style="margin-left:10px;" />
+      databases: [
+        "MongoDB",
+        "MySQL",
+        "SQLite",
+      ],
+
+      infrastructure: [
+        "Linux",
+        "Windows Server",
+        "Cisco Networking",
+        "DFS",
+      ],
+
+      creative: [
+        "Blender",
+        "Figma",
+        "3D Workflows",
+      ],
+    };
+
+    this.philosophy = [
+      "Build scalable systems.",
+      "Keep architecture clean.",
+      "Performance over complexity.",
+      "Design with purpose.",
+    ];
+
+    this.currentFocus = [
+      "Advanced Networking",
+      "System Architecture",
+      "Cybersecurity",
+      "Frontend Performance",
+    ];
+  }
+
+  deploy() {
+    return "Turning ideas into scalable digital systems.";
+  }
+}
+````
+
+---
+
+# ⚡ Engineering Domains
+
+<div align="center">
+
+| Frontend              | Infrastructure   | Backend         | Creative  |
+| --------------------- | ---------------- | --------------- | --------- |
+| UI Engineering        | Cisco Networking | API Development | 3D Design |
+| Frontend Architecture | Linux Systems    | FastAPI         | Blender   |
+| React Ecosystem       | Windows Server   | Databases       | Figma     |
+| Three.js Experiences  | DFS & Networking | GraphQL         | Motion/UI |
+
+</div>
+
+---
+
+# 🛠 Tech Arsenal
+
+<div align="center">
+
+## ⚡ Core Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,go,html,css&theme=dark&perline=8" />
+
+---
+
+## 🎨 Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,vite,threejs,p5js&theme=dark&perline=8" />
+
+---
+
+## ⚙ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,nestjs,graphql&theme=dark&perline=8" />
+
+---
+
+## 🗄 Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark&perline=8" />
+
+---
+
+## 🖥 Systems & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark&perline=8" />
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-CCNP-1E3A8A?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-###  Design & 3D Modeling
-<p align="center">
-  <img src="https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://timothyegans.com/Images/icons8-figma.gif" width="45" height="45" style="margin-left:15px;" />
+<img src="https://skillicons.dev/icons?i=linux,windows,docker&theme=dark&perline=8" /> 
+
+<p> 
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Cisco-CCNP-1E3A8A?style=for-the-badge&logo=cisco&logoColor=white" /> 
 </p>
 
-###  Backend & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+---
 
-<p align="center">꧁═══════════════════════════════ ❖ ═══════════════════════════════꧂</p>
+## 🎭 Creative & Design
 
-##  **Skills**
+<img src="https://skillicons.dev/icons?i=blender,figma&theme=dark&perline=8" />
 
-<p align="center" style="margin: 20px 0;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,atom,blender,go,graphql,nestjs,py,sass,vite,gatsby,mongodb,wordpress,mysql,nextjs,vue,webpack,p5js,tailwind,threejs,ts,fastapi,figma,laravel,linux,windows&theme=light" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco_Networking-CCNA-red?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Networking-CCNP-red?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+---
 
-<p align="center">𒆜══════════════════════════════ ༺2026༻ ══════════════════════════════𒆜</p>
+# 📈 GitHub Analytics
 
-##  **Statistieken**
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PortfolioOntwikkelaar&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PortfolioOntwikkelaar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PortfolioOntwikkelaar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PortfolioOntwikkelaar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PortfolioOntwikkelaar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<p align="center">𓊈══════════════════════════════ ༺༻ ══════════════════════════════𓊉</p>
+</div>
 
+---
 
+# 📊 Activity Graph
 
+<div align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PortfolioOntwikkelaar&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-PortfolioOntwikkelaar-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PortfolioOntwikkelaar)
+
+<!-- Voeg hier je LinkedIn / Portfolio / Discord toe -->
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:0d1117&height=120&section=footer" />
+
+</div>
+```
