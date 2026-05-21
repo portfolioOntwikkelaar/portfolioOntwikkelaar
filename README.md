@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,50:111827,75:1e293b,100:020617&text=PortfolioOntwikkelaar&fontSize=54&fontColor=e2e8f0&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Systems%20Builder%20%7C%20Infrastructure%20Enthusiast&descAlignY=58&descColor=60a5fa&animation=twinkling" />
@@ -17,9 +17,9 @@
 
 ---
 
-# 🧠 Engineering Identity
-
+#  Engineering Identity
 ```ts
+
 class PortfolioOntwikkelaar {
   role = [
     "Frontend Engineer",
@@ -87,7 +87,7 @@ class PortfolioOntwikkelaar {
 
 ---
 
-# ⚡ Engineering Domains
+#  Engineering Domains
 
 <div align="center">
 
@@ -103,35 +103,35 @@ class PortfolioOntwikkelaar {
 
 ---
 
-# 🛠 Tech Arsenal
+#  Tech Arsenal
 
 <div align="center">
 
-## ⚡ Core Languages
+##  Core Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,go,html,css&theme=dark&perline=8" />
 
 ---
 
-## 🎨 Frontend Engineering
+##  Frontend Engineering
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,vite,threejs,p5js&theme=dark&perline=8" />
 
 ---
 
-## ⚙ Backend & APIs
+##  Backend & APIs
 
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,nestjs,graphql&theme=dark&perline=8" />
 
 ---
 
-## 🗄 Databases
+##  Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark&perline=8" />
 
 ---
 
-## 🖥 Systems & Infrastructure
+##  Systems & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=linux,windows,docker,bash&theme=dark&perline=8" />
 
@@ -143,37 +143,74 @@ class PortfolioOntwikkelaar {
 
 ---
 
-## 🎭 Creative & Design
+##  Creative & Design
 
 <img src="https://skillicons.dev/icons?i=blender,figma&theme=dark&perline=8" />
 
 </div>
 
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PortfolioOntwikkelaar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PortfolioOntwikkelaar&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1" />
-
-</div>
 
 ---
 
-# 📊 Contribution Activity
+#  Contribution Activity
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PortfolioOntwikkelaar&theme=tokyo-night&hide_border=true&bg_color=020617&color=60a5fa&line=2563eb&point=e2e8f0&area=true" />
 
 </div>
+---
+<div align="center">
+
+# CURRENT ENGINEERING INTERESTS
+
+</div>
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+</div>
+## Infrastructure
+
+Docker  
+Container Systems  
+Linux Administration  
+Networking  
+
+</td>
+</tr>
+</table>
+
+---
+<div align="center">
+
+# SYSTEM TERMINAL
+
+</div>
+
+```bash
+$ docker ps
+
+CONTAINER ID   IMAGE              STATUS
+81fa2bc91e21   frontend-system    Running
+6da12af812c1   backend-api        Running
+31bc9d2ff001   infrastructure     Running
+92adffbc7811   portfolio-stack    Operational
+```
+
+```bash
+$ systemctl status engineering
+
+● engineering.service - Portfolio Engineering Stack
+     Loaded: active
+     Status: running
+     Focus: scalable infrastructure
+```
 
 ---
 
-# 🌐 Connect
+
+#  Connect
 
 <div align="center">
 
