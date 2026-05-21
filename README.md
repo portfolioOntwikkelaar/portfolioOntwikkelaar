@@ -135,13 +135,6 @@ class PortfolioOntwikkelaar {
 
 ## 🖥 Systems & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark&perline=8" />
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-CCNP-1E3A8A?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
 <img src="https://skillicons.dev/icons?i=linux,windows,docker&theme=dark&perline=8" /> 
 
 <p> 
