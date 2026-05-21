@@ -19,7 +19,7 @@
 
 ---
 
-# 🧠 Engineering Identity
+#  Engineering Identity
 
 ```ts
 class PortfolioOntwikkelaar {
@@ -90,7 +90,7 @@ class PortfolioOntwikkelaar {
 
 ---
 
-# ⚡ Engineering Domains
+#  Engineering Domains
 
 <div align="center">
 
@@ -105,35 +105,35 @@ class PortfolioOntwikkelaar {
 
 ---
 
-# 🛠 Tech Arsenal
+#  Tech Arsenal
 
 <div align="center">
 
-## ⚡ Core Languages
+##  Core Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,go,html,css&theme=dark&perline=8" />
 
 ---
 
-## 🎨 Frontend Engineering
+##  Frontend Engineering
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,vite,threejs,p5js&theme=dark&perline=8" />
 
 ---
 
-## ⚙ Backend & APIs
+##  Backend & APIs
 
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,nestjs,graphql&theme=dark&perline=8" />
 
 ---
 
-## 🗄 Databases
+##  Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark&perline=8" />
 
 ---
 
-## 🖥 Systems & Infrastructure
+##  Systems & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=linux,windows,docker&theme=dark&perline=8" /> 
 
@@ -144,7 +144,7 @@ class PortfolioOntwikkelaar {
 
 ---
 
-## 🎭 Creative & Design
+##  Creative & Design
 
 <img src="https://skillicons.dev/icons?i=blender,figma&theme=dark&perline=8" />
 
@@ -152,19 +152,8 @@ class PortfolioOntwikkelaar {
 
 ---
 
-# 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PortfolioOntwikkelaar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PortfolioOntwikkelaar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</div>
-
----
-
-# 📊 Activity Graph
+#  Activity Graph
 
 <div align="center">
 
@@ -174,7 +163,7 @@ class PortfolioOntwikkelaar {
 
 ---
 
-# 🌐 Connect
+#  Connect
 
 <div align="center">
 
